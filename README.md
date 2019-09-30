@@ -1,4 +1,4 @@
-# creative_coding
+# the way of creative code
  French documents about the creative coding, I hope in english one day.
  
  # contenu
