@@ -4,7 +4,7 @@
  # contenu
  PDF de présentation de quelques artistes liés au code créatif, c'est bien entendu une liste imcompléte et amenée à s'enrichir.
  
- Une norme pour commencer à bien coder et proprément !
+ Une norme parmi d'autres pour coder et proprement [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
  
  Et d'autre chose sont à venir dans les mois à venir
  
