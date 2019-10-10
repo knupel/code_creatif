@@ -1,6 +1,6 @@
-# Présentation du Code créatif
+# Code créatif
 2019-2019
-v 0.0.7
+v 0.0.8
 
 
 # principe
