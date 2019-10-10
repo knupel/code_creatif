@@ -266,6 +266,8 @@ resource : https://github.com/terkelg/awesome-creative-coding
 
 présentation Tim Holman : https://www.youtube.com/watch?v=4Se0_w0ISYk
 
+Science, math : https://github.com/jasonwebb/morphogenesis-resources
+
 
 
 
