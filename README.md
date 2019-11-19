@@ -6,6 +6,6 @@
  
  Une norme parmi d'autres pour coder et proprement [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
  
- Et d'autre chose sont à venir dans les mois à venir
+ Et d'autres choses sont à venir dans les mois à venir
  
 
