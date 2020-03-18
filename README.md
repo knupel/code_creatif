@@ -258,13 +258,13 @@ sandbox : http://glslsandbox.com/
 
 # TUTORIELS EN LIGNE
 
-Matt DesLauriers : 	https://github.com/mattdesl/workshop-generative-art
-										https://github.com/mattdesl/workshop-p5-intro
+[Daniel Shiffmann learing Processing](https://github.com/shiffman/LearningProcessing)
 
-Daniel Shiffmann : https://github.com/shiffman/LearningProcessing
-										https://thecodingtrain.com/
+[Daniel Shiffmann coding train](https://thecodingtrain.com/)
 
+[Matt DesLauriers 1](https://github.com/mattdesl/workshop-generative-art)
 
+[Matt DesLauriers 2](https://github.com/mattdesl/workshop-p5-intro)
 
 
 
