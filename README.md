@@ -274,7 +274,7 @@ Daniel Shiffmann : https://github.com/shiffman/LearningProcessing
 
 [books_and_links](https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD)
 
-[présentation Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk)
+[présentation vidéo par Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 
 [Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources)
 
