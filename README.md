@@ -1,18 +1,18 @@
-# Code créatif
+# VERSION
 2019-2020
 v 0.1.0
 
 
-# Quelques artistes créatif
+# ARTISTES CRÉATIFS
  PDF de présentation de quelques artistes liés au code créatif, c'est bien entendu une liste imcompléte et amenée à s'enrichir.
  
 
- # Norme 
+ # NORME
  Une norme parmi d'autres pour coder et proprement [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
 
 
 
-# principe
+# PRINCIPES
 
 Tout ce que je vais décrire ici se fonde sur mon expérience et ma vision de l'art, de la philosophie et de la science ; cela s'expose donc à des désaccords possibles, toujours enrichissants et constructifs.
 
@@ -39,7 +39,7 @@ L'algorithmie ou art d'écrire des algorithmes est le pivot du code, créatif ou
 
 
 
-# histoire
+# HISTOIRE
 
 ## Préhistoire
 Empreinte de main avec de la peinture projetée.
@@ -103,11 +103,11 @@ Apprentissage profond - Machine learning
 RayMarching
 3D -->
 
-# Algorithme
+# ALGORITHMES
 
 Ici quelques idées de source pour créer avec du code :
 
-## Equation 
+## Équation 
 Trigonométrie, Voronoi, Navier-Stoke, Mandelbrot, bruit de Perlin, Fourrier...
 
 ## Comportement
@@ -125,7 +125,7 @@ Données > fichier CSV, JSON, XML, TXT...
 
 <!-- Le code créatif agit souvent comme un détournement d'algorithme par l'insertion d'éléments variés,  -->
 
-# Communauté, festival, exposition
+# COMMUNAUTÉ, FESTIVAL, EXPOSITION
 
 Les artistes codeurs, designers codeur, artistes génératifs sont encore peu nombreux, toujours à l’avant-garde depuis 40 ans !!! Mais grâce à internet, l'augmentation des festivals et avènement de l'ordinateur personnel cela va de mieux en mieux.
 Cette petite communauté qui grandit petit à petit se retrouve régulièrement soit dans des festivals, soit à travers des meetups ou des journées organisées par différence associations souvent liées à Processing.
@@ -162,7 +162,7 @@ Pour se tenir au courant de qui se passe dans le monde du code créatif, un site
 https://www.creativeapplications.net/
 
 
-# Lieu
+# LIEUX
 
 ZKM à Karlsruhe
 https://zkm.de/en/zkmdigital
@@ -174,15 +174,14 @@ EyeBeam à New-York
 
 
 
-# Tendance
+# TENDANCE
 
 robotique, plotter, live coding, détection de mouvement, laser, VR, réalité augmentée, apprentissage profond
 
 
 
 
-# personne ou groupes
-
+# PERSONNES, GROUPES
 ## Musique
 Iannis Xenakis, Ryoji Ikeda
 ## Design Génératif
@@ -200,7 +199,7 @@ Daniel Shiffmann
 Mat DesLaurier, Manoloide, Cacheflowe, Raven Kwok, Mathieu Le Sourd, Memo Aken, Benedikt Groß et moi même, Stan le Punk :)
  
 
-# ouvrages
+# OUVRAGES
 
 Generative Gestaltung - Generative Design
 http://www.generative-gestaltung.de/2/
@@ -212,7 +211,7 @@ Maeda et Média : Jonh Maéda
 
 
 
-# langages
+# LANGAGES
 
 ## Java 
 Processing 
@@ -232,7 +231,7 @@ VVVV, Pure Data, SuperCollider
 
 
 
-# framework
+# FRAMEWORK
 
 ## JavaScript : 
 zdog https://zzz.dog/
@@ -247,7 +246,7 @@ Cinder https://www.libcinder.org/
 
 
 
-# plateforme de code créatif en ligne
+# PLATEFORME EN LIGNE DE CODE
 
 openProcessing : https://www.openprocessing.org/
 codePen : https://codepen.io/#
@@ -257,7 +256,7 @@ sandbox : http://glslsandbox.com/
 
 
 
-# Exercice / exemples / tutoriel
+# TUTORIELS EN LIGNE
 
 Matt DesLauriers : 	https://github.com/mattdesl/workshop-generative-art
 										https://github.com/mattdesl/workshop-p5-intro
@@ -269,18 +268,19 @@ Daniel Shiffmann : https://github.com/shiffman/LearningProcessing
 
 
 
-# lien
+# RESSOURCES
 
-resource : https://github.com/terkelg/awesome-creative-coding
+resource : 
+https://github.com/terkelg/awesome-creative-coding
+https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD
 
-présentation Tim Holman : https://www.youtube.com/watch?v=4Se0_w0ISYk
+présentation Tim Holman : 
+https://www.youtube.com/watch?v=4Se0_w0ISYk
 
-Science, math : https://github.com/jasonwebb/morphogenesis-resources
+Science, math : 
+https://github.com/jasonwebb/morphogenesis-resources
 
 
 
 
- 
-
- 
 
