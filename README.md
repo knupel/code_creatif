@@ -258,7 +258,7 @@ sandbox : http://glslsandbox.com/
 
 # TUTORIELS EN LIGNE
 
-[Daniel Shiffmann learing Processing](https://github.com/shiffman/LearningProcessing)
+[Daniel Shiffmann learning Processing](https://github.com/shiffman/LearningProcessing)
 
 [Daniel Shiffmann coding train](https://thecodingtrain.com/)
 
