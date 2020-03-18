@@ -270,15 +270,13 @@ Daniel Shiffmann : https://github.com/shiffman/LearningProcessing
 
 # RESSOURCES
 
-resource : 
-https://github.com/terkelg/awesome-creative-coding
-https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD
+[awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 
-présentation Tim Holman : 
-https://www.youtube.com/watch?v=4Se0_w0ISYk
+[books_and_links](https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD)
 
-Science, math : 
-https://github.com/jasonwebb/morphogenesis-resources
+[présentation Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk)
+
+[Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources)
 
 
 
