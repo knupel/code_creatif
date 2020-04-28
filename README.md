@@ -1,6 +1,6 @@
 # VERSION
 2019-2020
-v 0.1.0
+v 0.1.1
 
 
 # ARTISTES CRÉATIFS
@@ -277,6 +277,8 @@ sandbox : http://glslsandbox.com/
 [présentation vidéo par Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 
 [Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources)
+
+[Petite histoire de l'informatique](https://github.com/v3ga/computer_history)
 
 
 
