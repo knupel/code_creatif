@@ -1,6 +1,6 @@
 # VERSION
 2019-2020
-v 0.1.1
+v 0.1.2
 
 
 # ARTISTES CRÉATIFS
@@ -279,6 +279,8 @@ sandbox : http://glslsandbox.com/
 [Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources)
 
 [Petite histoire de l'informatique](https://github.com/v3ga/computer_history)
+
+[le aiartists, artistes et outils de travail...](https://aiartists.org/)
 
 
 
