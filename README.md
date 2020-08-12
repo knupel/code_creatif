@@ -1,6 +1,6 @@
 # VERSION
 2019-2020
-v 0.1.2
+v 0.1.3
 
 
 # ARTISTES CRÉATIFS
