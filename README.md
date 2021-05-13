@@ -210,59 +210,74 @@ Mat DesLaurier, Manoloide, Cacheflowe, Raven Kwok, Mathieu Le Sourd, Memo Aken, 
 
 # OUVRAGES
 
-Generative Gestaltung - Generative Design
-http://www.generative-gestaltung.de/2/
+[Generative Gestaltung - Generative Design](http://www.generative-gestaltung.de/2/)
 
-Nature of Code de Daniel Shiffmann
+[Nature of Code de Daniel Shiffmann](https://natureofcode.com/)
+
+[Hydra Book de Naoto Hièda](https://hydra-book.glitch.me)
 
 Maeda et Média : Jonh Maéda
 
-# LANGAGES
+# LANGAGES / FRAMEWORK
 
 ## Java
 
-Processing
+[Processing](https://github.com/processing/processing)
 
-## JavaScirpt
+[Processing 4](https://github.com/processing/processing4)
 
-P5, ThreeJS, Babylon, PaperJS
+## C++
+
+[Open Franmework](https://openframeworks.cc/)
+
+[Cinder](https://www.libcinder.org/)
+polycode
+
+## JavaScript
+
+[zdog](https://zzz.dog/)
+
+[P5.JS](https://p5js.org/)
+
+[ThreeJS](https://threejs.org/)
+
+[Babylon](https://www.babylonjs.com/)
+
+[PaperJS](http://paperjs.org/)
+
+## Rust
+
+[Nannou](https://nannou.cc/)
 
 ## Python
 
 Processing Python
 
-## C++
+## Langage de boite
 
-Openframework, Cynder, polycode
+[VVVV](https://visualprogramming.net/)
 
-## Carte Graphique
+[Pure Data](https://www.purrdata.net/)
 
-GLSL
+[SuperCollider](https://supercollider.github.io/)
+
+[Node](https://nodes.io/)
+
+[Cables](https://cables.gl/)
 
 ## Jeu
 
-Unity
+[Unity](https://unity.com/fr)
 
-## Langage de boite
+[Unreal Engine](https://www.unrealengine.com/en-US/)
 
-VVVV, Pure Data, SuperCollider
+## Carte Graphique
 
-# FRAMEWORK
+[GLSL](https://www.opengl.org/) mais pour comprendre et utiliser il vaut mieux aller voir les bac à sable comme [Shader Toy](https://www.shadertoy.com/) ou [Sandbox](http://glslsandbox.com/)
 
-## Java
+## Divers
 
-Processing https://github.com/processing/processing
-Processing 4 https://github.com/processing/processing4
-
-## JavaScript :
-
-zdog https://zzz.dog/
-Processing / p5 https://p5js.org/
-
-## C++
-
-Open Franme work https://openframeworks.cc/
-Cinder https://www.libcinder.org/
+[Touch designer](https://derivative.ca/)
 
 # LIBRARIES
 
@@ -272,17 +287,23 @@ love math and creative coding https://github.com/genbs/urpflanze
 
 ## Processing
 
-HEmesh 3D https://github.com/wblut/HE_Mesh
-Hype https://github.com/hype/HYPE_Processing
-Point Cloud https://github.com/cansik/pointcloud-processing
-Rope https://github.com/StanLepunK/Rope
+[HEmesh 3D](https://github.com/wblut/HE_Mesh)
+
+[Hype](https://github.com/hype/HYPE_Processing)
+
+[Point Cloud](https://github.com/cansik/pointcloud-processing)
+
+[Rope](https://github.com/StanLepunK/Rope)
 
 # PLATEFORME EN LIGNE DE CODE
 
-openProcessing : https://www.openprocessing.org/
-codePen : https://codepen.io/#
-shadertoy : https://www.shadertoy.com/
-sandbox : http://glslsandbox.com/
+[openProcessing](https://www.openprocessing.org/)
+
+[codePen](https://codepen.io/)
+
+[shadertoy](https://www.shadertoy.com/)
+
+[sandbox](http://glslsandbox.com/)
 
 # TUTORIELS EN LIGNE
 
