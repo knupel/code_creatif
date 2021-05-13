@@ -190,7 +190,7 @@ Jonh Maeda, Ben Fry, OnFormative
 
 ## Art Visuel
 
-Casey Reas, Miguel Chevalier, Antoine Schmitt, Joanie Lemercier, Adrien M. et Claire B., Ryoji Ikeda
+Casey Reas, Miguel Chevalier, Antoine Schmitt, Joanie Lemercier, Adrien M. et Claire B., Ryoji Ikeda, Karsten Schmidt
 
 ## Graphisme Génératif
 
@@ -231,11 +231,10 @@ Maeda et Média : Jonh Maéda
 [Open Franmework](https://openframeworks.cc/)
 
 [Cinder](https://www.libcinder.org/)
-polycode
+
+[polycode](http://www.polycode.org/)
 
 ## JavaScript
-
-[zdog](https://zzz.dog/)
 
 [P5.JS](https://p5js.org/)
 
@@ -244,6 +243,12 @@ polycode
 [Babylon](https://www.babylonjs.com/)
 
 [PaperJS](http://paperjs.org/)
+
+[zdog](https://zzz.dog/)
+
+## Typescript
+
+[umbrella](https://github.com/thi-ng/umbrella)
 
 ## Rust
 
@@ -278,6 +283,8 @@ Processing Python
 ## Divers
 
 [Touch designer](https://derivative.ca/)
+
+[Praxis Live](https://github.com/praxis-live)
 
 # LIBRARIES
 
