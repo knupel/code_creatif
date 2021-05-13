@@ -1,7 +1,7 @@
 # VERSION
 
-2019-2020
-v 0.1.3
+2019-2021
+v 0.1.4
 
 # ARTISTES CRÉATIFS
 
@@ -167,12 +167,7 @@ https://www.creativeapplications.net/
 
 # LIEUX
 
-ZKM à Karlsruhe
-https://zkm.de/en/zkmdigital
-
-MUDA, Museum of Digital Art à Zurich
-
-EyeBeam à New-York
+[ZKM à Karlsruhe](https://zkm.de/en/zkmdigital), [MUDA, Museum of Digital Art à Zurich](https://muda.co/zurich/), [EyeBeam à New-York](https://www.eyebeam.org/)
 
 # TENDANCE
 
@@ -210,41 +205,21 @@ Mat DesLaurier, Manoloide, Cacheflowe, Raven Kwok, Mathieu Le Sourd, Memo Aken, 
 
 # OUVRAGES
 
-[Generative Gestaltung - Generative Design](http://www.generative-gestaltung.de/2/)
-
-[Nature of Code de Daniel Shiffmann](https://natureofcode.com/)
-
-[Hydra Book de Naoto Hièda](https://hydra-book.glitch.me)
-
-Maeda et Média : Jonh Maéda
+[Generative Gestaltung - Generative Design](http://www.generative-gestaltung.de/2/), [Nature of Code de Daniel Shiffmann](https://natureofcode.com/), [Hydra Book de Naoto Hièda](https://hydra-book.glitch.me), [Book of Shader](https://thebookofshaders.com/), Maeda et Média : Jonh Maéda
 
 # LANGAGES / FRAMEWORK
 
 ## Java
 
-[Processing](https://github.com/processing/processing)
-
-[Processing 4](https://github.com/processing/processing4)
+[Processing](https://github.com/processing/processing), [Processing 4](https://github.com/processing/processing4)
 
 ## C++
 
-[Open Franmework](https://openframeworks.cc/)
-
-[Cinder](https://www.libcinder.org/)
-
-[polycode](http://www.polycode.org/)
+[Open Franmework](https://openframeworks.cc/), [Cinder](https://www.libcinder.org/), [polycode](http://www.polycode.org/)
 
 ## JavaScript
 
-[P5.JS](https://p5js.org/)
-
-[ThreeJS](https://threejs.org/)
-
-[Babylon](https://www.babylonjs.com/)
-
-[PaperJS](http://paperjs.org/)
-
-[zdog](https://zzz.dog/)
+[P5.JS](https://p5js.org/), [ThreeJS](https://threejs.org/), [Babylon](https://www.babylonjs.com/), [PaperJS](http://paperjs.org/), [zdog](https://zzz.dog/)
 
 ## Typescript
 
@@ -260,21 +235,11 @@ Processing Python
 
 ## Langage de boite
 
-[VVVV](https://visualprogramming.net/)
-
-[Pure Data](https://www.purrdata.net/)
-
-[SuperCollider](https://supercollider.github.io/)
-
-[Node](https://nodes.io/)
-
-[Cables](https://cables.gl/)
+[VVVV](https://visualprogramming.net/), [Pure Data](https://www.purrdata.net/), [SuperCollider](https://supercollider.github.io/), [Node](https://nodes.io/), [Cables](https://cables.gl/), [Notch](https://www.notch.one/)
 
 ## Jeu
 
-[Unity](https://unity.com/fr)
-
-[Unreal Engine](https://www.unrealengine.com/en-US/)
+[Unity](https://unity.com/fr), [Unreal Engine](https://www.unrealengine.com/en-US/)
 
 ## Carte Graphique
 
@@ -282,9 +247,7 @@ Processing Python
 
 ## Divers
 
-[Touch designer](https://derivative.ca/)
-
-[Praxis Live](https://github.com/praxis-live)
+[Touch designer](https://derivative.ca/), [Praxis Live](https://github.com/praxis-live)
 
 # LIBRARIES
 
@@ -294,44 +257,16 @@ love math and creative coding https://github.com/genbs/urpflanze
 
 ## Processing
 
-[HEmesh 3D](https://github.com/wblut/HE_Mesh)
-
-[Hype](https://github.com/hype/HYPE_Processing)
-
-[Point Cloud](https://github.com/cansik/pointcloud-processing)
-
-[Rope](https://github.com/StanLepunK/Rope)
+[HEmesh 3D](https://github.com/wblut/HE_Mesh), [Hype](https://github.com/hype/HYPE_Processing), [Point Cloud](https://github.com/cansik/pointcloud-processing), [Rope](https://github.com/StanLepunK/Rope)
 
 # PLATEFORME EN LIGNE DE CODE
 
-[openProcessing](https://www.openprocessing.org/)
-
-[codePen](https://codepen.io/)
-
-[shadertoy](https://www.shadertoy.com/)
-
-[sandbox](http://glslsandbox.com/)
+[openProcessing](https://www.openprocessing.org/), [codePen](https://codepen.io/), [shadertoy](https://www.shadertoy.com/), [sandbox](http://glslsandbox.com/)
 
 # TUTORIELS EN LIGNE
 
-[Daniel Shiffmann learning Processing](https://github.com/shiffman/LearningProcessing)
-
-[Daniel Shiffmann coding train](https://thecodingtrain.com/)
-
-[Matt DesLauriers 1](https://github.com/mattdesl/workshop-generative-art)
-
-[Matt DesLauriers 2](https://github.com/mattdesl/workshop-p5-intro)
+[Daniel Shiffmann learning Processing](https://github.com/shiffman/LearningProcessing), [Daniel Shiffmann coding train](https://thecodingtrain.com/), [Matt DesLauriers 1](https://github.com/mattdesl/workshop-generative-art), [Matt DesLauriers 2](https://github.com/mattdesl/workshop-p5-intro)
 
 # RESSOURCES
 
-[awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
-
-[books_and_links](https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD)
-
-[présentation vidéo par Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk)
-
-[Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources)
-
-[Petite histoire de l'informatique](https://github.com/v3ga/computer_history)
-
-[le aiartists, artistes et outils de travail...](https://aiartists.org/)
+[awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding), [books_and_links](https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD), [présentation vidéo par Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk), [Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources), [Petite histoire de l'informatique](https://github.com/v3ga/computer_history), [le aiartists, artistes et outils de travail...](https://aiartists.org/)
