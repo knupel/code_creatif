@@ -203,6 +203,10 @@ Daniel Shiffmann
 
 Mat DesLaurier, Manoloide, Cacheflowe, Raven Kwok, Mathieu Le Sourd, Memo Aken, Benedikt Groß et moi même, Stan le Punk :)
 
+# SITE
+
+[tinkersynth](https://tinkersynth.com/)
+
 # OUVRAGES
 
 [Generative Gestaltung - Generative Design](http://www.generative-gestaltung.de/2/), [Nature of Code de Daniel Shiffmann](https://natureofcode.com/), [Hydra Book de Naoto Hièda](https://hydra-book.glitch.me), [Book of Shader](https://thebookofshaders.com/), Maeda et Média : Jonh Maéda
