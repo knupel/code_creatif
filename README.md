@@ -160,7 +160,7 @@ https://www.grow.paris/fr/
 Le centre Georges Pompidou organise maintenant depuis trois ans les journées du code, et en 2018 il y a eu la très réussit exposition : "Coder le Monde", lors du Festival Manifeste organiser chaque année par l'Ircam.
 https://www.centrepompidou.fr/cpv/resource/cdAr58R/rnAg56a
 
-Il y a aussi des entités plus petites que vous pouvez trouver via la plateforme meetup, comme Creative Code Paris à laquelle je participe, Meetup créé par Grégory Jarrige et Fred Cecilia.
+Il y a aussi des entités plus petites que vous pouvez trouver via la plateforme meetup, comme Creative Code Paris à laquelle je participe avec Florian Rouzaud Cornabas. Meetup créé par Grégory Jarrige et Fred Cecilia.
 
 Pour se tenir au courant de qui se passe dans le monde du code créatif, un site incontournable :
 https://www.creativeapplications.net/
