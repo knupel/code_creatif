@@ -88,6 +88,7 @@ Azimov : Les trois lois de la robotique
 ## 1980
 
 - Craig W. Reynolds : [les boids](https://www.red3d.com/cwr/boids/), comportement de bancs.
+- Demoscene : [mouvement artistique international](https://en.wikipedia.org/wiki/Demoscene) qui perdure aujourd'hui encore.
 
 ## 1990
 
@@ -199,17 +200,18 @@ https://www.creativeapplications.net/
 
 ## Art Visuel
 
-- Casey Reas
+- [Casey Reas](https://reas.com/)
 - Miguel Chevalier
 - Antoine Schmitt
 - Joanie Lemercier
 - Adrien M. et Claire B.
-- Ryoji Ikeda,
+- Ryoji Ikeda
 - Karsten Schmidt
 
-## Graphisme Génératif
+## Design Génératif
 
-- Joshua Davis
+- [Joshua Davis](https://joshuadavis.com/)
+- [Nervous System](https://n-e-r-v-o-u-s.com/)
 
 ## Professeur
 
@@ -228,11 +230,12 @@ https://www.creativeapplications.net/
 - Mathieu Le Sourd
 - Memo Aken
 - Benedikt Groß 
-- et moi même, Knupel :)
+- et moi même, [Knupel](https://www.knupel.art/) :)
 
 # SITE
 
-[tinkersynth](https://tinkersynth.com/)
+- [tinkersynth](https://tinkersynth.com/)
+- [recode project](http://recodeproject.com/)
 
 # OUVRAGES
 
@@ -265,15 +268,15 @@ https://www.creativeapplications.net/
 
 ## Typescript
 
-[umbrella](https://github.com/thi-ng/umbrella)
+- [umbrella](https://github.com/thi-ng/umbrella)
 
 ## Rust
 
-[Nannou](https://nannou.cc/)
+- [Nannou](https://nannou.cc/)
 
 ## Python
 
-Processing Python
+- Processing Python
 
 ## Langage de boite
 
@@ -291,7 +294,9 @@ Processing Python
 
 ## Carte Graphique
 
-[GLSL](https://www.opengl.org/) mais pour comprendre et utiliser il vaut mieux aller voir les bac à sable comme [Shader Toy](https://www.shadertoy.com/) ou [Sandbox](http://glslsandbox.com/)
+- [GLSL](https://www.opengl.org/) mais pour comprendre et utiliser il vaut mieux aller voir les bac à sable 
+- comme [Shader Toy](https://www.shadertoy.com/) 
+- ou [Sandbox](http://glslsandbox.com/)
 
 ## Divers
 
@@ -302,7 +307,7 @@ Processing Python
 
 ## Javascript :
 
-love math and creative coding https://github.com/genbs/urpflanze
+- love math and creative coding https://github.com/genbs/urpflanze
 
 ## Processing
 
@@ -313,7 +318,7 @@ love math and creative coding https://github.com/genbs/urpflanze
 
 ## Multi
 
-[SFML](https://github.com/SFML/SFML)
+- [SFML](https://github.com/SFML/SFML)
 
 # PLATEFORME EN LIGNE DE CODE
 
@@ -335,4 +340,5 @@ love math and creative coding https://github.com/genbs/urpflanze
 - [books_and_links](https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD)
 - [présentation vidéo par Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 - [Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources)
-- [Petite histoire de l'informatique](https://github.com/v3ga/computer_history), [le aiartists, artistes et outils de travail...](https://aiartists.org/)
+- [Petite histoire de l'informatique](https://github.com/v3ga/computer_history)
+- [le aiartists, artistes et outils de travail...](https://aiartists.org/)
