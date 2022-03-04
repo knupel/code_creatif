@@ -1,7 +1,7 @@
 # VERSION
 
-2019-2021
-v 0.1.4
+2019-2022
+v 0.1.5
 
 # ARTISTES CRÉATIFS
 
@@ -43,8 +43,11 @@ Empreinte de main avec de la peinture projetée.
 ## Antiquité
 
 Feux d'artifice chez les chinois.
+
 Les Fontaines et leurs magnifiques jets et jeux d'eaux.
+
 La création de jardin et de parc.
+
 Les machines de guerre étaient capable de faire du Land-Art en détruisant les villes voisines !
 
 ## XVe siècle
@@ -60,10 +63,12 @@ Pascal > machine à calculer
 Leibniz > machine à calculer
 L'orgue de Barbarie
 
-## XIXe siècle :
+## XIXe siècle
 
 Joseph-Marie Jacquard > Métier Jacquard
+
 Charles Babbage > La machine à différence... le premier ordinateur ?
+
 Ada Lovelace > écrit le premier programme de l'histoire de l'humanité.
 
 ## 1940
@@ -76,27 +81,29 @@ Azimov : Les trois lois de la robotique
 
 ## 1960
 
-Les Algoristes
-Mouvement Fluxus
+- Les Algoristes
+- Mouvement Fluxus
+- Jonh Whitney ["Catalog" 1961](https://www.youtube.com/watch?v=TbV7loKp69s)
+- à propos de [John Whitney](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html)
 
 ## 1970
 
-John Horton Conway > Jeu de la vie ou Automata
-Benoît Mandelbrot > Description du monde fractal et de son invariance à l'infini
+- John Horton Conway > [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) ou Automata
+- Benoît Mandelbrot > Description du monde fractal et de son invariance à l'infini
 
 ## 1980
 
-Craig W. Reynolds > les boids, comportement de bancs.
+- Craig W. Reynolds > [les boids](https://www.red3d.com/cwr/boids/), comportement de bancs.
 
 ## 1990
 
-John Maeda > Design by number
-Macromédia > Director, puis l'incontournable Flash et son langage Action Script
+- John Maeda > Design by number
+- Macromédia > Director, puis l'incontournable Flash et son langage Action Script
 
 ## Année 2000
 
-Caseay Reas, Ben Fry > Processing
-Zach Lieberman > Open Framework
+- Caseay Reas, Ben Fry > [Processing](https://processing.org/)
+- Zach Lieberman > Open Framework
 
 ## 2015
 
@@ -128,9 +135,9 @@ Hasard, particule, raymarching, polymorphisme, structural...
 
 ## Analyse
 
-Spectre > image, son
-Senseurs > souris, clavier, Kinect, leapmotion, température...
-Données > fichier CSV, JSON, XML, TXT...
+- Spectre > image, son
+- Senseurs > souris, clavier, Kinect, leapmotion, température...
+- Données > fichier CSV, JSON, XML, TXT...
 
 <!-- Le code créatif agit souvent comme un détournement d'algorithme par l'insertion d'éléments variés,  -->
 
@@ -167,41 +174,67 @@ https://www.creativeapplications.net/
 
 # LIEUX
 
-[ZKM à Karlsruhe](https://zkm.de/en/zkmdigital), [MUDA, Museum of Digital Art à Zurich](https://muda.co/zurich/), [EyeBeam à New-York](https://www.eyebeam.org/)
+- [ZKM à Karlsruhe](https://zkm.de/en/zkmdigital)
+- [MUDA, Museum of Digital Art à Zurich](https://muda.co/zurich/)
+- [EyeBeam à New-York](https://www.eyebeam.org/)
 
 # TENDANCE
 
-robotique, plotter, live coding, détection de mouvement, laser, VR, réalité augmentée, apprentissage profond
+- robotique
+- plotter
+- live coding
+- détection de mouvement
+- laser
+- VR
+- réalité augmentée
+- apprentissage profond
+- et l'étenrel retour du métaver :)
 
 # PERSONNES, GROUPES
 
 ## Musique
 
-Iannis Xenakis, Ryoji Ikeda
+- Iannis Xenakis
+- Ryoji Ikeda
 
 ## Design Génératif
 
-Jonh Maeda, Ben Fry, OnFormative
+- Jonh Maeda
+- Ben Fry
+- OnFormative
 
 ## Art Visuel
 
-Casey Reas, Miguel Chevalier, Antoine Schmitt, Joanie Lemercier, Adrien M. et Claire B., Ryoji Ikeda, Karsten Schmidt
+- Casey Reas
+- Miguel Chevalier
+- Antoine Schmitt
+- Joanie Lemercier
+- Adrien M. et Claire B.
+- Ryoji Ikeda,
+- Karsten Schmidt
 
 ## Graphisme Génératif
 
-Joshua Davis
+- Joshua Davis
 
 ## Professeur
 
-Daniel Shiffmann
+- Daniel Shiffmann
 
 ## global
 
-1024 architecture
+- 1024 architecture
 
 ## et tous les autres
 
-Mat DesLaurier, Manoloide, Cacheflowe, Raven Kwok, Mathieu Le Sourd, Memo Aken, Benedikt Groß et moi même, Stan le Punk :)
+- Mat DesLaurier
+- Manoloide
+- Cacheflowe, qui a un très bon article sur l'histoire du [code créatif](https://github.com/cacheflowe/creative-coding-notes) en anglais
+- Raven Kwok
+- Mathieu Le Sourd
+- Memo Aken
+- Benedikt Groß 
+- et moi même, Knupel :)
 
 # SITE
 
