@@ -7,9 +7,6 @@ v 0.1.5
 
 [PDF de présentation de quelques artistes liés au code créatif, c'est bien entendu une liste imcompléte et amenée à s'enrichir.](https://github.com/StanLepunK/code_creatif/blob/master/Artistes_19_9.pdf)
 
-# NORME
-
-Une norme parmi d'autres pour coder et proprement [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
 
 # PRINCIPES
 
@@ -42,38 +39,35 @@ Empreinte de main avec de la peinture projetée.
 
 ## Antiquité
 
-Feux d'artifice chez les chinois.
-
-Les Fontaines et leurs magnifiques jets et jeux d'eaux.
-
-La création de jardin et de parc.
-
-Les machines de guerre étaient capable de faire du Land-Art en détruisant les villes voisines !
+- Feux d'artifice chez les chinois.
+- Les Fontaines et leurs magnifiques jets et jeux d'eaux.
+- La création de jardin et de parc.
+- Les machines de guerre étaient capable de faire du Land-Art en détruisant les villes voisines !
 
 ## XVe siècle
 
-Johannes Gutenberg > L'imprimerie
+Johannes Gutenberg : L'imprimerie
 
 ## XVIIe siècle
 
-Pascal > machine à calculer
+Pascal : machine à calculer
 
 ## XVIIIe siècle
 
-Leibniz > machine à calculer
-L'orgue de Barbarie
+- Leibniz : machine à calculer
+- L'orgue de Barbarie
 
 ## XIXe siècle
 
-Joseph-Marie Jacquard > Métier Jacquard
+Joseph-Marie Jacquard : Métier Jacquard
 
-Charles Babbage > La machine à différence... le premier ordinateur ?
+Charles Babbage : La machine à différence... le premier ordinateur ?
 
-Ada Lovelace > écrit le premier programme de l'histoire de l'humanité.
+Ada Lovelace : écrit le premier programme de l'histoire de l'humanité.
 
 ## 1940
 
-Alan Turing > Machine de Turing > Test de Turing
+Alan Turing : Machine de Turing, Test de Turing
 
 ## 1950
 
@@ -88,22 +82,22 @@ Azimov : Les trois lois de la robotique
 
 ## 1970
 
-- John Horton Conway > [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) ou Automata
-- Benoît Mandelbrot > Description du monde fractal et de son invariance à l'infini
+- John Horton Conway : [Jeu de la vie](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) ou Automata
+- Benoît Mandelbrot : Description du monde fractal et de son invariance à l'infini
 
 ## 1980
 
-- Craig W. Reynolds > [les boids](https://www.red3d.com/cwr/boids/), comportement de bancs.
+- Craig W. Reynolds : [les boids](https://www.red3d.com/cwr/boids/), comportement de bancs.
 
 ## 1990
 
-- John Maeda > Design by number
-- Macromédia > Director, puis l'incontournable Flash et son langage Action Script
+- John Maeda : Design by number
+- Macromédia : Director, puis l'incontournable Flash et son langage Action Script
 
 ## Année 2000
 
-- Caseay Reas, Ben Fry > [Processing](https://processing.org/)
-- Zach Lieberman > Open Framework
+- Caseay Reas, Ben Fry :  [Processing](https://processing.org/)
+- Zach Lieberman : [Open Franmework](https://openframeworks.cc/)
 
 ## 2015
 
@@ -242,21 +236,32 @@ https://www.creativeapplications.net/
 
 # OUVRAGES
 
-[Generative Gestaltung - Generative Design](http://www.generative-gestaltung.de/2/), [Nature of Code de Daniel Shiffmann](https://natureofcode.com/), [Hydra Book de Naoto Hièda](https://hydra-book.glitch.me), [Book of Shader](https://thebookofshaders.com/), Maeda et Média : Jonh Maéda
+- [Generative Gestaltung - Generative Design](http://www.generative-gestaltung.de/2/)
+- [Nature of Code de Daniel Shiffmann](https://natureofcode.com/)
+- [Hydra Book de Naoto Hièda](https://hydra-book.glitch.me)
+- [Book of Shader](https://thebookofshaders.com/)
+- Maeda et Média : Jonh Maéda
 
 # LANGAGES / FRAMEWORK
 
 ## Java
 
-[Processing](https://github.com/processing/processing), [Processing 4](https://github.com/processing/processing4)
+- [Processing](https://github.com/processing/processing)
+- [Processing 4](https://github.com/processing/processing4)
 
 ## C++
 
-[Open Franmework](https://openframeworks.cc/), [Cinder](https://www.libcinder.org/), [polycode](http://www.polycode.org/)
+- [Open Franmework](https://openframeworks.cc/)
+- [Cinder](https://www.libcinder.org/)
+- [polycode](http://www.polycode.org/)
 
 ## JavaScript
 
-[P5.JS](https://p5js.org/), [ThreeJS](https://threejs.org/), [Babylon](https://www.babylonjs.com/), [PaperJS](http://paperjs.org/), [zdog](https://zzz.dog/)
+- [P5.JS](https://p5js.org/)
+- [ThreeJS](https://threejs.org/)
+- [Babylon](https://www.babylonjs.com/)
+- [PaperJS](http://paperjs.org/)
+- [zdog](https://zzz.dog/)
 
 ## Typescript
 
@@ -272,11 +277,17 @@ Processing Python
 
 ## Langage de boite
 
-[VVVV](https://visualprogramming.net/), [Pure Data](https://www.purrdata.net/), [SuperCollider](https://supercollider.github.io/), [Node](https://nodes.io/), [Cables](https://cables.gl/), [Notch](https://www.notch.one/)
+- VVVV](https://visualprogramming.net/)
+- [Pure Data](https://www.purrdata.net/)
+- [SuperCollider](https://supercollider.github.io/)
+- [Node](https://nodes.io/)
+- [Cables](https://cables.gl/)
+- [Notch](https://www.notch.one/)
 
 ## Jeu
 
-[Unity](https://unity.com/fr), [Unreal Engine](https://www.unrealengine.com/en-US/)
+- [Unity](https://unity.com/fr)
+- [Unreal Engine](https://www.unrealengine.com/en-US/)
 
 ## Carte Graphique
 
@@ -284,7 +295,8 @@ Processing Python
 
 ## Divers
 
-[Touch designer](https://derivative.ca/), [Praxis Live](https://github.com/praxis-live)
+- [Touch designer](https://derivative.ca/)
+- [Praxis Live](https://github.com/praxis-live)
 
 # LIBRARIES
 
@@ -294,7 +306,10 @@ love math and creative coding https://github.com/genbs/urpflanze
 
 ## Processing
 
-[HEmesh 3D](https://github.com/wblut/HE_Mesh), [Hype](https://github.com/hype/HYPE_Processing), [Point Cloud](https://github.com/cansik/pointcloud-processing), [Rope](https://github.com/StanLepunK/Rope)
+- [HEmesh 3D](https://github.com/wblut/HE_Mesh)
+- [Hype](https://github.com/hype/HYPE_Processing)
+- [Point Cloud](https://github.com/cansik/pointcloud-processing)
+- [Rope](https://github.com/StanLepunK/Rope)
 
 ## Multi
 
@@ -302,12 +317,22 @@ love math and creative coding https://github.com/genbs/urpflanze
 
 # PLATEFORME EN LIGNE DE CODE
 
-[openProcessing](https://www.openprocessing.org/), [codePen](https://codepen.io/), [shadertoy](https://www.shadertoy.com/), [sandbox](http://glslsandbox.com/)
+- [openProcessing](https://www.openprocessing.org/)
+- [codePen](https://codepen.io/)
+- [shadertoy](https://www.shadertoy.com/)
+- [sandbox](http://glslsandbox.com/)
 
 # TUTORIELS EN LIGNE
 
-[Daniel Shiffmann learning Processing](https://github.com/shiffman/LearningProcessing), [Daniel Shiffmann coding train](https://thecodingtrain.com/), [Matt DesLauriers 1](https://github.com/mattdesl/workshop-generative-art), [Matt DesLauriers 2](https://github.com/mattdesl/workshop-p5-intro)
+- [Daniel Shiffmann learning Processing](https://github.com/shiffman/LearningProcessing)
+- [Daniel Shiffmann coding train](https://thecodingtrain.com/)
+- [Matt DesLauriers 1](https://github.com/mattdesl/workshop-generative-art)
+- [Matt DesLauriers 2](https://github.com/mattdesl/workshop-p5-intro)
 
 # RESSOURCES
 
-[awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding), [books_and_links](https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD), [présentation vidéo par Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk), [Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources), [Petite histoire de l'informatique](https://github.com/v3ga/computer_history), [le aiartists, artistes et outils de travail...](https://aiartists.org/)
+- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+- [books_and_links](https://github.com/gregja/CreativeCodingParis/blob/master/books_and_links.MD)
+- [présentation vidéo par Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk)
+- [Science, math PAR jasonwebb](https://github.com/jasonwebb/morphogenesis-resources)
+- [Petite histoire de l'informatique](https://github.com/v3ga/computer_history), [le aiartists, artistes et outils de travail...](https://aiartists.org/)
