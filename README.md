@@ -260,11 +260,12 @@ https://www.creativeapplications.net/
 
 ## JavaScript
 
-- [P5.JS](https://p5js.org/)
+- [P5JS](https://p5js.org/)
 - [ThreeJS](https://threejs.org/)
 - [Babylon](https://www.babylonjs.com/)
 - [PaperJS](http://paperjs.org/)
 - [zdog](https://zzz.dog/)
+- [PixiJS](https://pixijs.com/)
 
 ## Typescript
 
