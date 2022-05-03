@@ -1,7 +1,7 @@
-# VERSION
+[# VERSION
 
 2019-2022
-v 0.1.5
+v 0.1.6
 
 # ARTISTES CRÉATIFS
 
@@ -57,21 +57,20 @@ Pascal : machine à calculer
 - Leibniz : machine à calculer
 - L'orgue de Barbarie
 
-## XIXe siècle
+## XIXe et début du XXe siècle
 
-Joseph-Marie Jacquard : Métier Jacquard
-
-Charles Babbage : La machine à différence... le premier ordinateur ?
-
-Ada Lovelace : écrit le premier programme de l'histoire de l'humanité.
+- Joseph-Marie Jacquard : Construit le métier Jacquard, révolution dans le monde du textile.
+- Charles Babbage : La machine à différence... le premier ordinateur ?
+- Ada Lovelace : écrit le premier programme de l'histoire de l'humanité.
+- D'Arcy Thompson : Biologiste et mathématicien écrit un magnifique libre nommé "Forme et croissance".
 
 ## 1940
 
-Alan Turing : Machine de Turing, Test de Turing
+- Alan Turing : Machine de Turing, Test de Turing
 
 ## 1950
 
-Azimov : Les trois lois de la robotique
+- Azimov : Les trois lois de la robotique
 
 ## 1960
 
@@ -118,21 +117,42 @@ Ici quelques idées de source pour créer avec du code :
 
 ## Équation
 
-Trigonométrie, Voronoi, Navier-Stoke, Mandelbrot, bruit de Perlin, Fourrier...
+- Trigonométrie
+- Voronoi
+- Navier-Stoke
+- Mandelbrot
+- bruit de Perlin
+- Fourrier
+- etc
 
-## Comportement
+## Système agents / écosystème
 
-boids, Jeu de la vie...
+- boids
+- Jeu de la vie
+- etc
+
+## Statistique
+
+- Apprentissage profond
 
 ## Méthode
 
-Hasard, particule, raymarching, polymorphisme, structural...
+- Hasard
+- particule
+- raymarching
+- polymorphisme
+- structural
+- etc
 
-## Analyse
+## Analyse d'un corpus
 
 - Spectre > image, son
 - Senseurs > souris, clavier, Kinect, leapmotion, température...
 - Données > fichier CSV, JSON, XML, TXT...
+
+## Rendu
+- Fixe > traceur, imprimante 2D / 3D pourquoi pas à la main
+- Animation > écran, laser, projection, petit-robots, son.
 
 <!-- Le code créatif agit souvent comme un détournement d'algorithme par l'insertion d'éléments variés,  -->
 
@@ -162,7 +182,7 @@ https://www.grow.paris/fr/
 Le centre Georges Pompidou organise maintenant depuis trois ans les journées du code, et en 2018 il y a eu la très réussit exposition : "Coder le Monde", lors du Festival Manifeste organiser chaque année par l'Ircam.
 https://www.centrepompidou.fr/cpv/resource/cdAr58R/rnAg56a
 
-Il y a aussi des entités plus petites que vous pouvez trouver via la plateforme meetup, comme Creative Code Paris à laquelle je participe avec Florian Rouzaud Cornabas. Meetup créé par Grégory Jarrige et Fred Cecilia.
+Il y a aussi des entités plus petites que vous pouvez trouver via la plateforme meetup, comme Creative Code Paris à laquelle je participais avec Florian Rouzaud Cornabas. Meetup créé par Grégory Jarrige et Fred Cecilia.
 
 Pour se tenir au courant de qui se passe dans le monde du code créatif, un site incontournable :
 https://www.creativeapplications.net/
@@ -244,6 +264,7 @@ https://www.creativeapplications.net/
 - [Hydra Book de Naoto Hièda](https://hydra-book.glitch.me)
 - [Book of Shader](https://thebookofshaders.com/)
 - Maeda et Média : Jonh Maéda
+- [Forme et croissance de D'arcy Thompson](https://www.seuil.com/ouvrage/forme-et-croissance-d-arcy-thompson/9782020988346) 
 
 # LANGAGES / FRAMEWORK
 
@@ -277,11 +298,11 @@ https://www.creativeapplications.net/
 
 ## Python
 
-- Processing Python
+- [Processing Python](https://py.processing.org/)
 
 ## Langage de boite
 
-- VVVV](https://visualprogramming.net/)
+- [VVVV](https://visualprogramming.net/)
 - [Pure Data](https://www.purrdata.net/)
 - [SuperCollider](https://supercollider.github.io/)
 - [Node](https://nodes.io/)
@@ -308,7 +329,7 @@ https://www.creativeapplications.net/
 
 ## Javascript :
 
-- love math and creative coding https://github.com/genbs/urpflanze
+- [Love math and creative coding](https://github.com/genbs/urpflanze)
 
 ## Processing
 
