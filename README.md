@@ -5,7 +5,7 @@ v 0.1.6
 
 # ARTISTES CRÉATIFS
 
-[PDF de présentation de quelques artistes liés au code créatif, c'est bien entendu une liste imcompléte et amenée à s'enrichir.](https://github.com/StanLepunK/code_creatif/blob/master/Artistes_19_9.pdf)
+[PDF de présentation de quelques artistes liés au code créatif, c'est bien entendu une liste imcompléte et amenée à s'enrichir.](https://github.com/StanLepunK/code_creatif/blob/master/Artistes_22_5.pdf)
 
 
 # PRINCIPES
