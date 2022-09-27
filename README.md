@@ -1,4 +1,4 @@
-[# VERSION
+# VERSION
 
 2019-2022
 v 0.1.6
