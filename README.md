@@ -1,7 +1,7 @@
 # VERSION
 
 2019-2022
-v 0.1.6
+v 0.1.7
 
 # ARTISTES CRÉATIFS
 
@@ -189,9 +189,23 @@ https://www.creativeapplications.net/
 
 # LIEUX
 
-- [ZKM à Karlsruhe](https://zkm.de/en/zkmdigital)
-- [MUDA, Museum of Digital Art à Zurich](https://muda.co/zurich/)
-- [EyeBeam à New-York](https://www.eyebeam.org/)
+- [ZKM, Karlsruhe](https://zkm.de/en/zkmdigital)
+- [EyeBeam, New-York](https://www.eyebeam.org/)
+- [iMal, Bruxelles](https://www.imal.org/en)
+
+#  AUTOUR DE LA CULTURE DIGITALE
+
+- [Digital Cultures](https://digitalcultures.pl/en/home)
+- [HOLO](https://www.holo.mg/)
+- [NORMALS](https://normalfutu.re/)
+- [UAL](https://www.arts.ac.uk/creative-computing-institute)
+
+# FESTIVALS
+
+- [EYEO festival](http://eyeofestival.com/)
+- [Mapping festival](https://mappingfestival.com/)
+- [Mutek festival](https://mutek.org/)
+- [Sonar festival](https://sonarplusd.com/)
 
 # TENDANCE
 
@@ -263,7 +277,7 @@ https://www.creativeapplications.net/
 - [Nature of Code de Daniel Shiffmann](https://natureofcode.com/)
 - [Hydra Book de Naoto Hièda](https://hydra-book.glitch.me)
 - [Book of Shader](https://thebookofshaders.com/)
-- Maeda et Média : Jonh Maéda
+-  Maeda et Média : Jonh Maéda
 - [Forme et croissance de D'arcy Thompson](https://www.seuil.com/ouvrage/forme-et-croissance-d-arcy-thompson/9782020988346) 
 
 # LANGAGES / FRAMEWORK
